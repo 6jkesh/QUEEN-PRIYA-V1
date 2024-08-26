@@ -16,29 +16,29 @@ global.socialm = "GitHub: Prexzybooster" //ur github or insta name
 global.location = "Nigeria, Osun, Osogbo" //ur location
 
 //new
-global.botname = 'QUEEN-PRIYA-V1👑' //ur bot name
-global.ownernumber = '2347063956321' //ur owner number
-global.ownername = 'Precious Ayomide👑' //ur owner name
+global.botname = '🌸𝙅𝞗𝙔𝞑𝞗𝙔-𝞛𝘿🌸' //ur bot name
+global.ownernumber = '2349059080129' //ur owner number
+global.ownername = '𝙅𝞗𝙔𝞑𝞗𝙔-𝞛𝘿' //ur owner name
 global.websitex = "https://youtube.com/@prexzyvilla"
-global.wagc = "https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"
+global.wagc = "https://whatsapp.com/channel/0029VadZEniLikgD9ygQIt2f"
 global.themeemoji = '🪀'
 global.wm = "Prexzyvilla."
 global.botscript = 'https://github.com/Prexzybooster/QUEEN-PRIYA-V1' //script link
-global.packname = "Sticker By Prexzy"
-global.author = "Prexzy👑\n\n+2347063956321"
+global.packname = "Sticker By 𝙅𝞗𝙔𝞑𝞗𝙔"
+global.author = "𝙅𝞗𝙔𝞑𝞗𝙔\n\n+2349059080129"
 global.creator = "2347063956321@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["2347063956321"] // Premium User
+global.xprefix = '!-.*'
+global.premium = ["2349059080129"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v10' // menu type 'v1' => 'v12'
-global.typereply = 'v1' // reply type 'v1' => 'v4'
+global.typemenu = 'v9' // menu type 'v1' => 'v12'
+global.typereply = 'v3' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 //msg
